@@ -6,7 +6,7 @@
 //*--VIEW IT ON CODEPEN --*//
 
 //--->
-//----> https://codepen.io/orzoon/pen/VVjJea 
+/*       https://codepen.io/orzoon/pen/VVjJea */
 //-->
 
 
